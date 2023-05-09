@@ -61,7 +61,7 @@ public class TelaListar extends JFrame{
         setExtendedState(JFrame.MAXIMIZED_BOTH);
         setContentPane(PNLTelaListar);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setTitle("Cadastro de Clientes");
+        setTitle("Relatório de Clientes");
         setVisible(true);
     }
 }
